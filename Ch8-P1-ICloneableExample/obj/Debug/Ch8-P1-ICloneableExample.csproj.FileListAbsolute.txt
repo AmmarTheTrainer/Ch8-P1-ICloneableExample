@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Documents\GitHub\Ch8-P1-ICloneableExample\Ch8-P1-ICloneableExample\bin\Debug\Ch8-P1-ICloneableExample.exe.config
+C:\Users\Lenovo\Documents\GitHub\Ch8-P1-ICloneableExample\Ch8-P1-ICloneableExample\bin\Debug\Ch8-P1-ICloneableExample.exe
+C:\Users\Lenovo\Documents\GitHub\Ch8-P1-ICloneableExample\Ch8-P1-ICloneableExample\bin\Debug\Ch8-P1-ICloneableExample.pdb
+C:\Users\Lenovo\Documents\GitHub\Ch8-P1-ICloneableExample\Ch8-P1-ICloneableExample\obj\Debug\Ch8-P1-ICloneableExample.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\Ch8-P1-ICloneableExample\Ch8-P1-ICloneableExample\obj\Debug\Ch8-P1-ICloneableExample.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\Ch8-P1-ICloneableExample\Ch8-P1-ICloneableExample\obj\Debug\Ch8-P1-ICloneableExample.exe
+C:\Users\Lenovo\Documents\GitHub\Ch8-P1-ICloneableExample\Ch8-P1-ICloneableExample\obj\Debug\Ch8-P1-ICloneableExample.pdb
